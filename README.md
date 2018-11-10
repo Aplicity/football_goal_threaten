@@ -11,6 +11,16 @@
 	
  ## 模型分析
  球门布局如下图
- 	![image](url)
+ ![image](https://github.com/Aplicity/football_goal_threaten/blob/master/image/figure_01.png)
 以球门底边中点为原点，地面为xoy面，球门竖直方向为yoz面，并记球门面为D。而球门所在的足球场竖直方向的平面为T。
 
+![image](https://github.com/Aplicity/football_goal_threaten/blob/master/image/paper_01.png)
+![image](https://github.com/Aplicity/football_goal_threaten/blob/master/image/paper_02.png)
+![image](https://github.com/Aplicity/football_goal_threaten/blob/master/image/paper_03.png)
+![image](https://github.com/Aplicity/football_goal_threaten/blob/master/image/paper_04.png)
+
+## 模型求解
+![image](https://github.com/Aplicity/football_goal_threaten/blob/master/image/paper_05.png)
+![image](https://github.com/Aplicity/football_goal_threaten/blob/master/image/paper_06.png)
+![image](https://github.com/Aplicity/football_goal_threaten/blob/master/image/paper_07.png)
+![image](https://github.com/Aplicity/football_goal_threaten/blob/master/image/paper_08.png)
